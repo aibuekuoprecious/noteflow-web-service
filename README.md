@@ -18,8 +18,11 @@ To run NoteFlow locally, follow these steps:
 3. Install dependencies using `npm install`.
 4. Start the development server using `npm run dev`.
 
+Or run already deployed version: [https://noteflow-web-service.onrender.com](https://noteflow-web-service.onrender.com)
+
 ## Technologies Used
 - **Backend:** Node.js, Express.js, and MongoDB
+- **Testing:** Postmaster
 
 ## Credits
 
